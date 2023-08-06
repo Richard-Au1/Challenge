@@ -2,7 +2,7 @@
 
 ## Description
 
-Horiseon challenge allowed html and basic css to be implemented into a website to be learned. Fomatting is important to make sure classes, ids, and other elements are called correctly so element's styles are not overriding each other.
+Horiseon allowed html and basic css to be implemented into a website. Fomatting is important to make sure classes, ids, and other elements are called correctly so element's styles are not overriding each other.
 This was a stepping stone on how to compact and be concise calling to the same class's styles so and not have repeating code in the css file. 
 
 ## Installation
@@ -21,10 +21,11 @@ Clicking on any of these buttons will bring the user down to the section below t
 ![Alt text](<assets/image/clicking example.PNG>)
 
 The user will also see the benefits that come with using Horiseon on the right side next to the 3 main services Horiseon provides.
+![Alt text](<assets/image/Benefits example.PNG>)
 
 ## Credits
 
-DU Bootcamp for providing the source code for challenge 1. 
+Mentors along the way.
 
 ## License
 
