@@ -11,7 +11,16 @@ No installation required to use the website.
 
 ## Usage
 
-Once on the website there is a header section with 3 texts on the right side. Clicking on any of these buttons will bring the user down to the section below to define what each part of Horiseon can provide. For example, if the Online Reputation Management button is pressed then the webpage will bring the user to the section below labeled Online Reputation Management and provide a brief description on how it can improve the user's business once implemented. The user will also see the benefits that come with using Horiseon on the right side next to the 3 main services Horiseon provides.
+Website Url: https://richard-au1.github.io/Horiseon/
+Github Repository Url: https://github.com/Richard-Au1/Horiseon
+
+Once on the website there is a header section with 3 texts on the right side.
+![Alt text](<assets/image/Header example.PNG>)
+
+Clicking on any of these buttons will bring the user down to the section below to define what each part of Horiseon can provide. For example, if the Online Reputation Management button is pressed then the webpage will bring the user to the section below labeled Online Reputation Management and provide a brief description on how it can improve the user's business once implemented. 
+![Alt text](<assets/image/clicking example.PNG>)
+
+The user will also see the benefits that come with using Horiseon on the right side next to the 3 main services Horiseon provides.
 
 ## Credits
 
